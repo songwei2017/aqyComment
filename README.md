@@ -1,3 +1,4 @@
+学习
 
 1.启动服务
 Q: 进人service/go 目录，go run main.go , 端口 1188，不用改，占用了需要改的话，tampermonkey/aqyComment.js 里面的端口也要改一下
